@@ -1,0 +1,13 @@
+body {
+    background-image: url('./kepek/alap.jpg');
+}
+
+hr {
+heiht: 8px;
+background-color: #555;
+border-radius: 8px;
+}
+h1, h3 {
+text-align: center;
+
+}
